@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
                 showRegisterDialog();
             }
         });
-
+1
         btnSignIn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
